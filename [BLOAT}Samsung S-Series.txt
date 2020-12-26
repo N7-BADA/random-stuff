@@ -64,7 +64,6 @@ cmd package install-existing com.monotype.android.font.cooljazz
 cmd package install-existing com.monotype.android.font.foundation
 cmd package install-existing com.monotype.android.font.rosemary
 cmd package install-existing com.nuance.swype.input
-cmd package install-existing com.osp.app.signin
 cmd package install-existing com.policydm
 cmd package install-existing com.samsung.aasaservice
 cmd package install-existing com.samsung.advp.imssettings

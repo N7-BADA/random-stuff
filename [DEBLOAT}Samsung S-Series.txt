@@ -64,7 +64,6 @@ pm uninstall -k --user 0 com.monotype.android.font.cooljazz
 pm uninstall -k --user 0 com.monotype.android.font.foundation
 pm uninstall -k --user 0 com.monotype.android.font.rosemary
 pm uninstall -k --user 0 com.nuance.swype.input
-pm uninstall -k --user 0 com.osp.app.signin
 pm uninstall -k --user 0 com.policydm
 pm uninstall -k --user 0 com.samsung.aasaservice
 pm uninstall -k --user 0 com.samsung.advp.imssettings
