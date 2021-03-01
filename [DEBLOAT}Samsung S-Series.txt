@@ -292,3 +292,4 @@ pm uninstall -k --user 0 comtv.peel.samsung.app
 pm uninstall -k --user 0 com.spotify.music
 pm uninstall -k --user 0 com.netflix.mediaclient
 pm uninstall -k --user 0 com.google.audio.hearing.visualization.accessibility.scribe
+pm uninstall -k --user 0 com.samsung.android.privateshare

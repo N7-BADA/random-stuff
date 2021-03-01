@@ -292,3 +292,4 @@ cmd package install-existing comtv.peel.samsung.app
 cmd package install-existing com.spotify.music
 cmd package install-existing com.netflix.mediaclient
 cmd package install-existing com.google.audio.hearing.visualization.accessibility.scribe
+cmd package install-existing com.samsung.android.privateshare
