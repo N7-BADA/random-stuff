@@ -128,6 +128,7 @@ pm uninstall -k --user 0 com.samsung.android.game.gos
 pm uninstall -k --user 0 com.samsung.android.gametuner.thin
 pm uninstall -k --user 0 com.samsung.android.hmt.vrshell
 pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc
+pm uninstall -k --user 0 com.samsung.android.homemode
 pm uninstall -k --user 0 com.samsung.android.keyguardwallpaperupdator
 pm uninstall -k --user 0 com.samsung.android.kidsinstaller
 pm uninstall -k --user 0 com.samsung.android.knox.analytics.uploader
